@@ -1,0 +1,638 @@
+152377729774890
+EEEFN1H101L
+CAP_EEEFN1H101L
+
+
+0
+2
+2
+LED
+LED Patch
+
+
+0
+4
+2
+LED
+Led_Footprint
+
+
+0
+1
+1
+LM2576-12WU
+REGULATOR_LM2576-12WU
+
+
+0
+6
+6
+MP1584
+MP1584-MODULE
+
+
+0
+8
+8
+MPM-90-12
+Led_12_Volt
+
+
+0
+45
+4
+MPM-90-12
+MPM_90_12
+
+
+0
+4
+4
+morphle_footprints
+100Uf_50v_Electrolytic_Radial_D8.0mm_P3.80mm
+CP, Radial series, Radial, pin pitch=3.80mm, , diameter=8mm, Electrolytic Capacitor
+CP Radial series Radial pin pitch 3.80mm  diameter 8mm Electrolytic Capacitor
+0
+2
+2
+morphle_footprints
+BC847
+
+
+0
+3
+3
+morphle_footprints
+BarrelJack_Horizontal
+DC Barrel Jack
+Power Jack
+0
+3
+3
+morphle_footprints
+BarrelJack_SMT_Horizontal
+Surface-mount DC Barrel Jack, https://www.cliffuk.co.uk/products/dcconnectors/FC681465S.pdf
+Power Jack SMT
+0
+4
+3
+morphle_footprints
+C_0805_2012Metric
+Capacitor SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf, https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator
+capacitor
+0
+2
+2
+morphle_footprints
+Cap_0603_1608Metric
+Capacitor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator
+capacitor
+0
+2
+2
+morphle_footprints
+Cap_Elec_6.3x7.7
+SMD capacitor, aluminum electrolytic nonpolar, 6.3x7.7mm
+capacitor electrolyic nonpolar
+0
+2
+2
+morphle_footprints
+DFN2020-6
+U-DFN2020-6 (Type F) (https://www.diodes.com/assets/Package-Files/U-DFN2020-6-Type-F.pdf) 
+U-DFN2020-6 (Type F)
+0
+8
+8
+morphle_footprints
+DIO_B340-13-F
+
+
+0
+2
+2
+morphle_footprints
+DO-214AB(SMC)
+Diode SMC (DO-214AB)
+Diode SMC (DO-214AB)
+0
+2
+2
+morphle_footprints
+DO-214AC(SMA)
+
+
+0
+2
+2
+morphle_footprints
+DPAK170P1435X465-6N
+
+
+0
+6
+6
+morphle_footprints
+Duraclick_SMD_2P_RT
+
+
+0
+4
+3
+morphle_footprints
+Duraclick_SMD_3P_RT
+
+
+0
+5
+4
+morphle_footprints
+Duraclick_SMD_4P_RT
+
+
+0
+6
+5
+morphle_footprints
+INDP125125X600N
+
+
+0
+2
+2
+morphle_footprints
+IRLR2905Z_SMD_D_Pak_TO_252AA
+
+
+0
+3
+3
+morphle_footprints
+JST_PH_S2B-PH-SM4-TB_1x02-1MP_P2.00mm_Horizontal
+JST PH series connector, S2B-PH-SM4-TB (http://www.jst-mfg.com/product/pdf/eng/ePH.pdf), generated with kicad-footprint-generator
+connector JST PH top entry
+0
+4
+3
+morphle_footprints
+JST_PH_S2B-PH-SM4-TB_1x02-1MP_P2.00mm_Vertical
+http://www.jst-mfg.com/product/pdf/eng/ePH.pdf
+
+0
+4
+2
+morphle_footprints
+JST_PH_S3B-PH-SM4-TB_1x03-1MP_P2.00mm_Horizontal
+JST PH series connector, S3B-PH-SM4-TB (http://www.jst-mfg.com/product/pdf/eng/ePH.pdf), generated with kicad-footprint-generator
+connector JST PH top entry
+0
+5
+4
+morphle_footprints
+JST_PH_S3B-PH-SM4-TB_1x03-1MP_P2.00mm_Vertical
+JST PH series connector, B3B-PH-SM4-TB (http://www.jst-mfg.com/product/pdf/eng/ePH.pdf), generated with kicad-footprint-generator
+connector JST PH side entry
+0
+5
+4
+morphle_footprints
+JST_PH_S4B-PH-SM4-TB_1x04-1MP_P2.00mm_Horizontal
+JST PH series connector, S4B-PH-SM4-TB (http://www.jst-mfg.com/product/pdf/eng/ePH.pdf), generated with kicad-footprint-generator
+connector JST PH top entry
+0
+6
+5
+morphle_footprints
+JST_PH_S4B-PH-SM4-TB_1x04-1MP_P2.00mm_Vertical
+JST PH series connector, B4B-PH-SM4-TB (http://www.jst-mfg.com/product/pdf/eng/ePH.pdf), generated with kicad-footprint-generator
+connector JST PH side entry
+0
+6
+5
+morphle_footprints
+JST_PH_S6B-PH-SM4-TB_1x06-1MP_P2.00mm_Horizontal
+JST PH series connector, S6B-PH-SM4-TB (http://www.jst-mfg.com/product/pdf/eng/ePH.pdf), generated with kicad-footprint-generator
+connector JST PH top entry
+0
+8
+6
+morphle_footprints
+JST_PH_S6B-PH-SM4-TB_1x06-1MP_P2.00mm_Vertical
+JST PH series connector, B6B-PH-SM4-TB (http://www.jst-mfg.com/product/pdf/eng/ePH.pdf), generated with kicad-footprint-generator
+connector JST PH side entry
+0
+8
+6
+morphle_footprints
+JST_PH_S8B-PH-SM4-TB_1x08-1MP_P2.00mm_Vertical
+JST PH series connector, B8B-PH-SM4-TB (http://www.jst-mfg.com/product/pdf/eng/ePH.pdf), generated with kicad-footprint-generator
+connector JST PH side entry
+0
+10
+9
+morphle_footprints
+JST_XH_B2B-XH-A_1x02_P2.50mm_Vertical
+JST XH series connector, B2B-XH-A (http://www.jst-mfg.com/product/pdf/eng/eXH.pdf), generated with kicad-footprint-generator
+connector JST XH vertical
+0
+2
+2
+morphle_footprints
+JST_XH_B3B-XH-A_1x03_P2.50mm_Vertical
+JST XH series connector, B3B-XH-A (http://www.jst-mfg.com/product/pdf/eng/eXH.pdf), generated with kicad-footprint-generator
+connector JST XH vertical
+0
+3
+3
+morphle_footprints
+JST_XH_B4B-XH-A_1x04_P2.50mm_Vertical
+JST XH series connector, B4B-XH-A (http://www.jst-mfg.com/product/pdf/eng/eXH.pdf), generated with kicad-footprint-generator
+connector JST XH vertical
+0
+4
+4
+morphle_footprints
+JST_XH_B6B-XH-A_1x06_P2.50mm_Vertical
+JST XH series connector, B06B-XH-A, top entry type, through hole
+connector jst xh tht top vertical 2.50mm
+0
+6
+6
+morphle_footprints
+JST_XH_S2B-XH-A_1x03_P2.50mm_Side
+http://www.jst-mfg.com/product/pdf/eng/eXH.pdf
+JST XH
+0
+4
+2
+morphle_footprints
+JST_XH_S3B-XH-A_1x03_P2.50mm_Side
+http://www.jst-mfg.com/product/pdf/eng/eXH.pdf
+JST XH
+0
+5
+3
+morphle_footprints
+JST_XH_S4B-XH-A_1x04_P2.50mm_Side
+http://www.jst-mfg.com/product/pdf/eng/eXH.pdf
+JST XH
+0
+6
+4
+morphle_footprints
+LED_0603_1608Metric
+LED SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator
+LED
+0
+2
+2
+morphle_footprints
+LED_1206
+
+
+0
+2
+2
+morphle_footprints
+LED_Cree-XHP70_12V
+Cree XHP70 LED, 12V version, http://www.cree.com/~/media/Files/Cree/LED%20Components%20and%20Modules/XLamp/Data%20and%20Binning/ds%20XHP70.pdf
+LED Cree XHP70
+0
+15
+3
+morphle_footprints
+LED_PLCC_2835_Handsoldering
+https://www.luckylight.cn/media/component/data-sheet/R2835BC-B2M-M10.pdf
+LED
+0
+2
+2
+morphle_footprints
+LM7805_TO-220-3_Vertical
+TO-220-3, Vertical, RM 2.54mm, see https://www.vishay.com/docs/66542/to-220-1.pdf
+TO-220-3 Vertical RM 2.54mm
+0
+3
+3
+morphle_footprints
+L_12x12mm_H6mm
+Choke, SMD, 12x12mm 6mm height
+Choke SMD
+0
+2
+2
+morphle_footprints
+L_12x12mm_H8mm
+Choke, SMD, 12x12mm 8mm height
+Choke SMD
+0
+2
+2
+morphle_footprints
+M7(1N4007_SMD)
+
+
+0
+2
+2
+morphle_footprints
+MP1584-MODULE
+
+
+0
+8
+8
+morphle_footprints
+MSOP-8-1EP_3x3mm_P0.65mm_EP1.73x1.85mm
+MSOP, 8 Pin (http://www.ti.com/lit/ds/symlink/lm25085.pdf#page=32), generated with kicad-footprint-generator ipc_gullwing_generator.py
+MSOP SO
+0
+13
+9
+morphle_footprints
+Male_Pin_Header_Straight_01X02
+<b>PIN HEADER</b>
+
+0
+2
+2
+morphle_footprints
+Male_Pin_Header_Straight_01X08
+<b>PIN HEADER</b>
+
+0
+8
+8
+morphle_footprints
+Male_Pin_Header_Straight_01X10
+<b>PIN HEADER</b>
+
+0
+10
+10
+morphle_footprints
+Male_Pin_Header_Straight_02X18
+<b>PIN HEADER</b>
+
+0
+36
+36
+morphle_footprints
+Molex_Mini-Fit_Jr_5569-02A2_2x01_P4.20mm_Horizontal
+Molex Mini-Fit Jr. Power Connectors, old mpn/engineering number: 5569-02A2, example for new mpn: 39-30-0020, 1 Pins per row, Mounting: Snap-in Plastic Peg PCB Lock (http://www.molex.com/pdm_docs/sd/039300020_sd.pdf), generated with kicad-footprint-generator
+connector Molex Mini-Fit_Jr top entryplastic_peg
+0
+2
+2
+morphle_footprints
+MountingHole_3.2mmOVAL_M3_Pad
+Mounting Hole 3.2mm, M3
+mounting hole 3.2mm m3
+0
+9
+1
+morphle_footprints
+MountingHole_3.2mm_M3_Pad_Via
+Mounting Hole 3.2mm, M3
+mounting hole 3.2mm m3
+0
+9
+1
+morphle_footprints
+PESD12VL1BA
+
+
+0
+2
+2
+morphle_footprints
+RELAY_SRD-05VDC-SL-C_THT
+
+
+0
+5
+5
+morphle_footprints
+RP2040
+QFN, 56 Pin (http://www.cypress.com/file/416486/download#page=40), generated with kicad-footprint-generator ipc_dfn_qfn_generator.py
+QFN DFN_QFN
+0
+70
+57
+morphle_footprints
+RPi_Pico_SMD
+Through hole straight pin header, 2x20, 2.54mm pitch, double rows
+Through hole pin header THT 2x20 2.54mm double row
+0
+50
+43
+morphle_footprints
+R_0603_1608Metric
+Resistor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator
+resistor
+0
+2
+2
+morphle_footprints
+R_0805_2012Metric
+Resistor SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator
+resistor
+0
+2
+2
+morphle_footprints
+R_2512
+Resistor SMD 2512 (6332 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator
+resistor
+0
+2
+2
+morphle_footprints
+S2B-PH-SM4-TB
+
+
+0
+4
+4
+morphle_footprints
+S4B-XH-SM4-TBLFSN
+
+
+0
+6
+6
+morphle_footprints
+SKRPABE010
+SKRPABE010 Alps Electronics SMD-mounted tactile switch
+
+0
+4
+4
+morphle_footprints
+SOIC127P600X170-9N
+
+
+0
+9
+9
+morphle_footprints
+SOT-23
+SOT-23, Standard
+SOT-23
+0
+3
+3
+morphle_footprints
+SOT-23-5
+SOT, 5 Pin (https://www.jedec.org/sites/default/files/docs/Mo-178c.PDF variant AA), generated with kicad-footprint-generator ipc_gullwing_generator.py
+SOT TO_SOT_SMD
+0
+5
+5
+morphle_footprints
+SOT223
+
+
+0
+4
+4
+morphle_footprints
+SOT563
+SOT563
+SOT-563
+0
+6
+6
+morphle_footprints
+SRT_MPT1584EN_Module
+
+Power 5V 3A
+0
+8
+4
+morphle_footprints
+SW_SPST_FSMSM
+http://www.te.com/commerce/DocumentDelivery/DDEController?Action=srchrtrv&DocNm=1437566-3&DocType=Customer+Drawing&DocLang=English
+SPST button tactile switch
+0
+4
+4
+morphle_footprints
+TB67S279FTG_BREAKOUT_POLOLU
+
+
+0
+16
+16
+morphle_footprints
+TCST2103
+
+
+0
+4
+4
+morphle_footprints
+TMC2209_Module
+
+
+0
+16
+16
+morphle_footprints
+TO-220-3_Vertical
+TO-220-3, Vertical, RM 2.54mm, see https://www.vishay.com/docs/66542/to-220-1.pdf
+TO-220-3 Vertical RM 2.54mm
+0
+3
+3
+morphle_footprints
+TRIM_3362P-1-103
+
+
+0
+3
+3
+morphle_footprints
+TerminalBlock_1x02_P5.08mm_Horizontal
+Terminal Block Phoenix MKDS-1,5-2-5.08, 2 pins, pitch 5.08mm, size 10.2x9.8mm^2, drill diamater 1.3mm, pad diameter 2.6mm, see http://www.farnell.com/datasheets/100425.pdf, script-generated using https://github.com/pointhi/kicad-footprint-generator/scripts/TerminalBlock_Phoenix
+THT Terminal Block Phoenix MKDS-1,5-2-5.08 pitch 5.08mm size 10.2x9.8mm^2 drill 1.3mm pad 2.6mm
+0
+2
+2
+morphle_footprints
+TerminalBlock_Dinkle_DT-55-B01X-02_P10.00mm
+Dinkle DT-55-B01X Terminal Block  pitch 10.00mm https://www.dinkle.com/en/terminal/DT-55-B01W-XX
+Dinkle DT-55-B01X Terminal Block  pitch 10.00mm
+0
+2
+2
+morphle_footprints
+US8
+
+
+0
+8
+8
+morphle_footprints
+USB_Micro-B_THsupport
+GCT Micro USB https://gct.co/files/drawings/usb3076.pdf
+Micro-USB SMD Typ-B GCT
+0
+11
+6
+morphle_footprints
+USON-8
+
+
+0
+9
+9
+morphle_footprints
+XL6009_boost_module
+
+
+0
+4
+4
+morphle_footprints
+mouse-bite-1mm-slot
+
+
+0
+0
+0
+morphle_footprints
+mouse-bite-2.54mm-slot
+
+
+0
+0
+0
+morphle_footprints
+mouse-bite-2mm-slot
+
+
+0
+0
+0
+morphle_footprints
+mouse-bite-3mm-slot
+
+
+0
+0
+0
+morphle_footprints
+mouse-bite-5mm-slot
+
+
+0
+0
+0
+sw
+Led 2x 8 Module
+
+
+0
+48
+5

@@ -1,0 +1,46 @@
+(export (version "E")
+  (design
+    (source "/home/kamehamehaa/Music/Led_PCB_12_Volt/LED_PCB/LED_PCB.kicad_sch")
+    (date "Tue Apr 25 12:50:14 2023")
+    (tool "Eeschema 6.0.11-2627ca5db0~126~ubuntu22.04.1")
+    (sheet (number "1") (name "/") (tstamps "/")
+      (title_block
+        (title)
+        (company)
+        (rev)
+        (date)
+        (source "LED_PCB.kicad_sch")
+        (comment (number "1") (value ""))
+        (comment (number "2") (value ""))
+        (comment (number "3") (value ""))
+        (comment (number "4") (value ""))
+        (comment (number "5") (value ""))
+        (comment (number "6") (value ""))
+        (comment (number "7") (value ""))
+        (comment (number "8") (value ""))
+        (comment (number "9") (value "")))))
+  (components
+    (comp (ref "D1")
+      (value "Led12VoLT")
+      (footprint "MPM-90-12:Led_12_Volt")
+      (libsource (lib "MPM-90-12") (part "Led12VoLT") (description ""))
+      (property (name "Sheetname") (value ""))
+      (property (name "Sheetfile") (value "LED_PCB.kicad_sch"))
+      (sheetpath (names "/") (tstamps "/"))
+      (tstamps "7b1e2840-05ed-4ab1-99c6-a61b01796bfa")))
+  (libparts
+    (libpart (lib "MPM-90-12") (part "Led12VoLT")
+      (fields
+        (field (name "Reference") "D")
+        (field (name "Value") "Led12VoLT"))
+      (pins
+        (pin (num "1") (name "") (type "passive"))
+        (pin (num "2") (name "") (type "passive")))))
+  (libraries
+    (library (logical "MPM-90-12")
+      (uri "/home/kamehamehaa/.local/share/kicad/6.0/symbols/MPM-90-12.kicad_sym")))
+  (nets
+    (net (code "1") (name "/Vcc")
+      (node (ref "D1") (pin "1") (pintype "passive")))
+    (net (code "2") (name "/gnd")
+      (node (ref "D1") (pin "2") (pintype "passive")))))
